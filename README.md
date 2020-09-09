@@ -18,7 +18,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/lalitnegi23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/lalitnegi23/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lalitnegi23-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From (https://github.com/lalitnegi23)
